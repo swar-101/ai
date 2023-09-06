@@ -1,0 +1,29 @@
+
+Learning Prompt Engineering 
+
+	Language models like ChatGPT.
+	
+	Priciples of prompting:
+
+	1. Write clear and specific instructions.
+	2. Give the model time to think.
+	
+	
+	---
+	
+	1. Write clear and specific instructions.
+	
+		Tactic 1: Use delimiters.
+			e.g. - Triple quotes """
+				 - Backticks ``` 
+				 - Triple Dashes ---
+				 - Angle Brackets < >
+				 - XML tags: <tag> </tag>
+		
+		Tactic 2: Ask for stuctured output.
+		
+		Tactic 3: Check whether conditions are satisfied.
+				  Check assumptions required to do the task. 
+				  
+		Tactic 4: Few shot prompting.
+	
